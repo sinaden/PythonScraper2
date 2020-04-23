@@ -1,6 +1,3 @@
-import main_package.bluecity_package.macbooks_package.scraper as BM
-import main_package.bluecity_package.smartphones_package.scraper as BS
-
 import main_package.dba_package.macbooks_package.MacBookCPH as DBA_mac_cph
 import main_package.dba_package.smartphones_package.SmartPhoneCPH as DBA_phone_cph
 
